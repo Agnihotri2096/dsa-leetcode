@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1904-second-largest-digit-in-a-string](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
