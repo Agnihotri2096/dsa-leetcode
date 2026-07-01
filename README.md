@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0344-reverse-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/2058-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
